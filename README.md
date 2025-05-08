@@ -1,4 +1,4 @@
-# 🧤 Hyper Cleaner 🧤
+# ✨ Hyper Cleaner ✨
 
 Built by **John Carvalho**
 
