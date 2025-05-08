@@ -1,4 +1,4 @@
-# ✨ Hyper Cleaner ✨
+# 🧤 Hyper Cleaner 🧤
 
 Built by **John Carvalho**
 
@@ -188,5 +188,3 @@ A comprehensive command-line utility for Windows, built with **Python**, designe
 **John Carvalho**
 
 If something is wrong, don't hesitate to tell me!
-
-===================================
